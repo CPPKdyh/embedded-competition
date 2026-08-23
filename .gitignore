@@ -1,0 +1,41 @@
+﻿# Keil build outputs
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.uvguix
+*.uvguix.*
+*.uvgui
+*.uvgui.*
+*.uvopt
+*.uvoptx
+*.bak
+*.htm
+*.map
+*.lnp
+*.lst
+
+# firmware / binary outputs
+*.hex
+*.bin
+*.elf
+
+# IDE / build dirs
+Debug/
+build/
+RTE/
+.vscode/
+
+# media / archives / logs
+*.mp4
+*.avi
+*.zip
+*.rar
+*.7z
+*.log# ST official libs
+Drivers/
+Libraries/
