@@ -36,6 +36,7 @@ RTE/
 *.zip
 *.rar
 *.7z
-*.log# ST official libs
+*.log
+# ST official libs
 Drivers/
 Libraries/
